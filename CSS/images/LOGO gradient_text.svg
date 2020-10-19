@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="677px" height="208px" viewBox="0 0 677 208" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>LOGO gradient</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="84.4795548%" cy="50%" fx="84.4795548%" fy="50%" r="246.697881%" gradientTransform="translate(0.844796,0.500000),scale(0.288618,1.000000),rotate(168.306450),translate(-0.844796,-0.500000)" id="radialGradient-1">
+            <stop stop-color="#0823CB" offset="0%"></stop>
+            <stop stop-color="#253CC8" offset="16.1132812%"></stop>
+            <stop stop-color="#3247C7" offset="32.3057432%"></stop>
+            <stop stop-color="#606FCC" offset="47.936022%"></stop>
+            <stop stop-color="#A2A9D2" offset="61.5339949%"></stop>
+            <stop stop-color="#D8D8D8" offset="75.7574958%"></stop>
+            <stop stop-color="#EBEBEB" offset="86.3545186%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-131.000000, -440.000000)">
+            <g id="LOGO-gradient" transform="translate(131.000000, 440.000000)">
+                <path d="M31,75.5 L134,76.0454545 L134,177.5 C122.780502,177.038524 114.35465,176.140585 108.722445,174.806181 C103.090239,173.471777 96.1457458,170.752812 87.888965,166.649285 C82.8092015,163.834731 79.6435111,162.022922 78.3918937,161.213858 C71.2561792,156.601228 66.8453442,152.492363 63.5203857,149.35703 C61.4446646,147.399689 57.96547,144.245596 55.6163852,141.396996 C54.7782803,140.380675 53.2581057,138.502733 52.1343816,136.836587 C51.661599,136.135591 43.3572133,127.253879 36.7929569,107.945349 C35.591176,104.410353 33.7245072,99.0302113 32.5359487,91.6266205 C32.0437038,88.5604021 31.5317209,83.1848619 31,75.5 Z" id="Rectangle" fill="#080808"></path>
+                <path d="M213,177 L676.5,177" id="Line" stroke="#030303" stroke-linecap="square"></path>
+                <path d="M199,169 L676.5,207.5" id="Line" stroke="#030303" stroke-linecap="square"></path>
+                <polygon id="Triangle" fill="#070606" points="171.559291 131 312 178 134 178"></polygon>
+                <polygon id="Triangle" fill="url(#radialGradient-1)" transform="translate(223.000000, 133.500000) scale(1, -1) translate(-223.000000, -133.500000) " points="316.723642 98 346 169 100 169"></polygon>
+                <circle id="Oval" fill="#000000" cx="78.5" cy="47.5" r="47.5"></circle>
+                <polygon id="Triangle" fill="#000000" points="39 44 78 51 0 51"></polygon>
+                <polygon id="Triangle" fill="#000000" transform="translate(39.000000, 54.500000) scale(1, -1) translate(-39.000000, -54.500000) " points="39 51 78 58 0 58"></polygon>
+                <text id="Magpie" font-family="Futura-Medium, Futura" font-size="64" font-weight="400" fill="#000000">
+                    <tspan x="449.0625" y="177">Magpie</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

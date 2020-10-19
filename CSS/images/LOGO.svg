@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="677px" height="208px" viewBox="0 0 677 208" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>LOGO</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-131.000000, -104.000000)">
+            <g id="LOGO" transform="translate(131.000000, 104.000000)">
+                <path d="M31,75.5 L134,76.0454545 L134,177.5 C122.780502,177.038524 114.35465,176.140585 108.722445,174.806181 C103.090239,173.471777 96.1457458,170.752812 87.888965,166.649285 C82.8092015,163.834731 79.6435111,162.022922 78.3918937,161.213858 C71.2561792,156.601228 66.8453442,152.492363 63.5203857,149.35703 C61.4446646,147.399689 57.96547,144.245596 55.6163852,141.396996 C54.7782803,140.380675 53.2581057,138.502733 52.1343816,136.836587 C51.661599,136.135591 43.3572133,127.253879 36.7929569,107.945349 C35.591176,104.410353 33.7245072,99.0302113 32.5359487,91.6266205 C32.0437038,88.5604021 31.5317209,83.1848619 31,75.5 Z" id="Rectangle" fill="#080808"></path>
+                <path d="M213,177 L676.5,177" id="Line" stroke="#030303" stroke-linecap="square"></path>
+                <path d="M199,169 L676.5,207.5" id="Line" stroke="#030303" stroke-linecap="square"></path>
+                <polygon id="Triangle" fill="#070606" points="171.559291 131 312 178 134 178"></polygon>
+                <polygon id="Triangle" fill="#0823CB" transform="translate(223.000000, 133.500000) scale(1, -1) translate(-223.000000, -133.500000) " points="316.723642 98 346 169 100 169"></polygon>
+                <circle id="Oval" fill="#000000" cx="78.5" cy="47.5" r="47.5"></circle>
+                <polygon id="Triangle" fill="#000000" points="39 44 78 51 0 51"></polygon>
+                <polygon id="Triangle" fill="#000000" transform="translate(39.000000, 54.500000) scale(1, -1) translate(-39.000000, -54.500000) " points="39 51 78 58 0 58"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

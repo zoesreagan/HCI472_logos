@@ -416,3 +416,28 @@ there.
 
 /* Larger than Desktop HD */
 @media (min-width: 1200px) {}
+
+
+
+/* image sizes */
+.img-small {
+  height: 8em;
+  width: 16em;
+}
+
+.img-med {
+  height: 16em;
+  width: 32em;
+}
+
+.img-lrg {
+  height: 32em;
+  width: 64em;
+}
+
+/* Reversed background */
+
+#reversed {
+  background-color: black;
+  color: white;
+}

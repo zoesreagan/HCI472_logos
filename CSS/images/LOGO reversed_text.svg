@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="685px" height="208px" viewBox="0 0 685 208" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>LOGO reversed</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-114.000000, -510.000000)">
+            <g id="LOGO-reversed" transform="translate(114.000000, 510.000000)">
+                <path d="M31.53622,76.0028523 C32.0535661,83.3872066 32.5519266,88.5717436 33.0296275,91.5473662 C33.57201,94.9258947 34.2849491,98.0794568 35.1631822,101.180433 C35.7735204,103.335492 36.1960619,104.636203 37.2663481,107.784412 C38.4018626,111.124488 39.6327979,114.279232 40.9455414,117.253935 C43.4012344,122.818584 46.0237541,127.507875 48.6909193,131.434046 C49.6242371,132.807926 50.4935515,133.986039 51.3352809,135.050135 C51.6921564,135.50129 52.4918088,136.47234 52.5489126,136.557008 C53.4602295,137.908219 54.645188,139.43339 56.002139,141.078886 C56.4548057,141.627809 56.9662181,142.207835 57.5347266,142.81982 C58.1470913,143.479014 58.8199761,144.16928 59.5611469,144.902416 C60.2633614,145.597018 60.9972656,146.301579 61.8693289,147.123206 C62.259705,147.491005 63.5955882,148.740705 63.8634137,148.993256 C69.1543395,153.982435 72.8153263,157.013716 78.6633286,160.79395 C79.9015844,161.594376 83.0627376,163.403588 88.1114925,166.201534 C96.3368922,170.289465 103.247707,172.995244 108.837715,174.31965 C114.345528,175.624582 122.569482,176.512182 133.5,176.978612 L133.5,76.5428137 L31.5362131,76.0028466 Z" id="Rectangle" stroke="#FFFFFF" fill="#FFFCFC"></path>
+                <polyline id="Line" stroke="#FFFFFF" stroke-linecap="square" points="214 176.5 356.600175 176.5 385.394647 176.5 677.5 176.5"></polyline>
+                <path d="M207,169 L684.5,207.5" id="Line" stroke="#FFFFFF" stroke-linecap="square"></path>
+                <polygon id="Triangle" stroke="#FFFCFC" fill="#FDFBFB" points="173.016438 130 313 176 133 177"></polygon>
+                <polygon id="Triangle" fill="#0823CB" transform="translate(223.000000, 133.500000) scale(1, -1) translate(-223.000000, -133.500000) " points="316.723642 98 346 169 100 169"></polygon>
+                <circle id="Oval" fill="#FFFFFF" cx="78.5" cy="47.5" r="47.5"></circle>
+                <polygon id="Triangle" stroke="#FFFFFF" fill="#FFFFFF" points="39 44 78 51 0 51"></polygon>
+                <polygon id="Triangle" stroke="#FFFFFF" fill="#FFFFFF" transform="translate(39.000000, 54.500000) scale(1, -1) translate(-39.000000, -54.500000) " points="39 51 78 58 0 58"></polygon>
+                <text id="Magpie" font-family="Futura-Medium, Futura" font-size="64" font-weight="400" fill="#FFFFFF">
+                    <tspan x="457.0625" y="177">Magpie</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
